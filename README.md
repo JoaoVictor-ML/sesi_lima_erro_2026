@@ -1,1 +1,2 @@
-"# sesi_lima_erro_2026" 
+# VPS 01 - LINGUAGEM DE MARCAÇÃO
+## Site com erros corrigido
